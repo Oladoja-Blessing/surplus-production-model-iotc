@@ -31,7 +31,6 @@ Where:
 ## ✍ Author
 
 **Blessing Oladoja**  
-Fisheries Scientist | Data Analyst
 
 ## 📄 License
 
